@@ -91,6 +91,8 @@ This project is currently in active development (MVP stage).
 ## 📜 License
 
 MIT License
+
+```text
 CareerSearchSystem/
 │
 ├── backend/                          # 🧠 Core API (FastAPI)
@@ -181,3 +183,4 @@ CareerSearchSystem/
 ├── .gitignore
 ├── README.md
 └── LICENSE
+```
